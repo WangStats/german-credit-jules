@@ -115,5 +115,10 @@ def train_and_evaluate():
 
     print("\nPlots saved to plots/confusion_matrix.png and plots/roc_curve.png")
 
+    # Save Model
+    import joblib
+    joblib.dump(model, 'german_credit_model.joblib')
+    print("Model saved to german_credit_model.joblib")
+
 if __name__ == "__main__":
     train_and_evaluate()
