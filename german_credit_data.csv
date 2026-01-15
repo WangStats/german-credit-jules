@@ -1,1 +1,1001 @@
-Age, Sex, Job, Housing, Saving accounts, Checking account, Credit amount, Duration, Purpose, Risk
+Age,Sex,Job,Housing,Saving accounts,Checking account,Credit amount,Duration,Purpose,Risk
+67,male,skilled,own,unknown/ no savings account,< 0 DM,1169,6,radio/television,good
+22,female,skilled,own,< 100 DM,0 <= ... < 200 DM,5951,48,radio/television,bad
+49,male,unskilled and resident,own,< 100 DM,no checking account,2096,12,education,good
+45,male,skilled,free,< 100 DM,< 0 DM,7882,42,furniture/equipment,good
+53,male,skilled,free,< 100 DM,< 0 DM,4870,24,car (new),bad
+35,male,unskilled and resident,free,unknown/ no savings account,no checking account,9055,36,education,good
+53,male,skilled,own,500 <= ... < 1000 DM,no checking account,2835,24,furniture/equipment,good
+35,male,highly qualified,rent,< 100 DM,0 <= ... < 200 DM,6948,36,car (used),good
+61,male,unskilled and resident,own,>= 1000 DM,no checking account,3059,12,radio/television,good
+28,male,highly qualified,own,< 100 DM,0 <= ... < 200 DM,5234,30,car (new),bad
+25,female,skilled,rent,< 100 DM,0 <= ... < 200 DM,1295,12,car (new),bad
+24,female,skilled,rent,< 100 DM,< 0 DM,4308,48,business,bad
+22,female,skilled,own,< 100 DM,0 <= ... < 200 DM,1567,12,radio/television,good
+60,male,unskilled and resident,own,< 100 DM,< 0 DM,1199,24,car (new),bad
+28,female,skilled,rent,< 100 DM,< 0 DM,1403,15,car (new),good
+32,female,unskilled and resident,own,100 <= ... < 500 DM,< 0 DM,1282,24,radio/television,bad
+53,male,skilled,own,unknown/ no savings account,no checking account,2424,24,radio/television,good
+25,male,skilled,own,unknown/ no savings account,< 0 DM,8072,30,business,good
+44,female,highly qualified,free,< 100 DM,0 <= ... < 200 DM,12579,24,car (used),bad
+31,male,skilled,own,500 <= ... < 1000 DM,no checking account,3430,24,radio/television,good
+48,male,skilled,own,< 100 DM,no checking account,2134,9,car (new),good
+44,male,skilled,rent,500 <= ... < 1000 DM,< 0 DM,2647,6,radio/television,good
+48,male,unskilled and resident,rent,< 100 DM,< 0 DM,2241,10,car (new),good
+44,male,skilled,own,100 <= ... < 500 DM,0 <= ... < 200 DM,1804,12,car (used),good
+26,male,skilled,own,unknown/ no savings account,no checking account,2069,10,furniture/equipment,good
+36,male,unskilled and resident,own,< 100 DM,< 0 DM,1374,6,furniture/equipment,good
+39,male,unskilled and resident,own,< 100 DM,no checking account,426,6,radio/television,good
+42,female,skilled,rent,>= 1000 DM,>= 200 DM / salary assignments for at least 1 year,409,12,radio/television,good
+34,male,skilled,own,< 100 DM,0 <= ... < 200 DM,2415,7,radio/television,good
+63,male,skilled,own,< 100 DM,< 0 DM,6836,60,business,bad
+36,male,skilled,own,>= 1000 DM,0 <= ... < 200 DM,1913,18,business,good
+27,male,skilled,own,< 100 DM,< 0 DM,4020,24,furniture/equipment,good
+30,male,skilled,own,100 <= ... < 500 DM,0 <= ... < 200 DM,5866,18,car (new),good
+57,male,unskilled and resident,rent,unknown/ no savings account,no checking account,1264,12,business,good
+33,female,highly qualified,own,< 100 DM,>= 200 DM / salary assignments for at least 1 year,1474,12,furniture/equipment,good
+25,male,unskilled and resident,own,< 100 DM,0 <= ... < 200 DM,4746,45,radio/television,bad
+31,male,skilled,free,< 100 DM,no checking account,6110,48,education,good
+37,male,skilled,own,< 100 DM,>= 200 DM / salary assignments for at least 1 year,2100,18,radio/television,bad
+37,male,skilled,own,< 100 DM,>= 200 DM / salary assignments for at least 1 year,1225,10,domestic appliances,good
+24,male,skilled,own,< 100 DM,0 <= ... < 200 DM,458,9,radio/television,good
+30,male,highly qualified,own,500 <= ... < 1000 DM,no checking account,2333,30,radio/television,good
+26,male,skilled,own,500 <= ... < 1000 DM,0 <= ... < 200 DM,1158,12,radio/television,good
+44,male,unskilled and resident,own,< 100 DM,0 <= ... < 200 DM,6204,18,repairs,good
+24,male,skilled,rent,100 <= ... < 500 DM,< 0 DM,6187,30,car (used),good
+58,female,unskilled and resident,free,< 100 DM,< 0 DM,6143,48,car (used),bad
+35,female,highly qualified,own,< 100 DM,no checking account,1393,11,car (new),good
+39,male,skilled,own,500 <= ... < 1000 DM,no checking account,2299,36,radio/television,good
+23,female,unskilled and non-resident,rent,500 <= ... < 1000 DM,< 0 DM,1352,6,car (used),good
+39,male,unskilled and resident,own,< 100 DM,no checking account,7228,11,car (new),good
+28,female,skilled,own,100 <= ... < 500 DM,no checking account,2073,12,radio/television,good
+29,male,unskilled and resident,own,unknown/ no savings account,0 <= ... < 200 DM,2333,24,furniture/equipment,good
+30,male,highly qualified,own,< 100 DM,0 <= ... < 200 DM,5965,27,car (used),good
+25,male,skilled,own,< 100 DM,no checking account,1262,12,radio/television,good
+31,male,skilled,own,unknown/ no savings account,no checking account,3378,18,car (used),good
+57,male,skilled,free,< 100 DM,0 <= ... < 200 DM,2225,36,car (new),bad
+26,male,unskilled and resident,own,unknown/ no savings account,no checking account,783,6,car (new),good
+52,male,highly qualified,own,unknown/ no savings account,0 <= ... < 200 DM,6468,12,radio/television,bad
+31,female,skilled,own,< 100 DM,no checking account,9566,36,radio/television,good
+23,female,highly qualified,own,< 100 DM,>= 200 DM / salary assignments for at least 1 year,1961,18,car (new),good
+23,female,unskilled and resident,rent,< 100 DM,< 0 DM,6229,36,furniture/equipment,bad
+27,male,skilled,own,< 100 DM,0 <= ... < 200 DM,1391,9,business,good
+50,male,skilled,own,unknown/ no savings account,0 <= ... < 200 DM,1537,15,radio/television,good
+61,male,highly qualified,free,< 100 DM,0 <= ... < 200 DM,1953,36,business,bad
+25,male,skilled,own,< 100 DM,0 <= ... < 200 DM,14421,48,business,bad
+26,female,skilled,own,< 100 DM,no checking account,3181,24,radio/television,good
+48,male,skilled,own,unknown/ no savings account,no checking account,5190,27,repairs,good
+29,female,skilled,own,< 100 DM,no checking account,2171,12,radio/television,good
+22,male,skilled,own,>= 1000 DM,0 <= ... < 200 DM,1007,12,car (new),good
+37,male,skilled,free,< 100 DM,no checking account,1819,36,education,bad
+25,female,skilled,own,unknown/ no savings account,no checking account,2394,36,radio/television,good
+30,female,skilled,own,< 100 DM,no checking account,8133,36,car (used),good
+46,male,unskilled and resident,rent,unknown/ no savings account,no checking account,730,7,radio/television,good
+51,male,highly qualified,free,< 100 DM,< 0 DM,1164,8,others,good
+41,female,unskilled and resident,own,< 100 DM,0 <= ... < 200 DM,5954,42,business,good
+40,male,highly qualified,own,unknown/ no savings account,< 0 DM,1977,36,education,bad
+66,male,highly qualified,free,< 100 DM,< 0 DM,1526,12,car (used),good
+34,male,skilled,own,< 100 DM,< 0 DM,3965,42,radio/television,bad
+51,male,skilled,own,< 100 DM,0 <= ... < 200 DM,4771,11,radio/television,good
+39,male,unskilled and resident,own,unknown/ no savings account,no checking account,9436,54,car (used),good
+22,male,skilled,own,< 100 DM,0 <= ... < 200 DM,3832,30,furniture/equipment,good
+44,female,skilled,own,unknown/ no savings account,no checking account,5943,24,radio/television,bad
+47,male,skilled,own,500 <= ... < 1000 DM,no checking account,1213,15,radio/television,good
+24,female,unskilled and resident,rent,100 <= ... < 500 DM,no checking account,1568,18,business,good
+58,female,unskilled and resident,own,< 100 DM,< 0 DM,1755,24,others,good
+52,male,unskilled and resident,own,< 100 DM,< 0 DM,2315,10,radio/television,good
+29,female,highly qualified,own,< 100 DM,no checking account,1412,12,business,good
+27,female,skilled,own,< 100 DM,0 <= ... < 200 DM,1295,18,furniture/equipment,good
+47,male,skilled,free,100 <= ... < 500 DM,0 <= ... < 200 DM,12612,36,education,bad
+30,male,highly qualified,own,100 <= ... < 500 DM,< 0 DM,2249,18,car (new),good
+28,male,skilled,own,< 100 DM,< 0 DM,1108,12,repairs,bad
+56,male,skilled,own,< 100 DM,no checking account,618,12,radio/television,good
+54,male,skilled,own,< 100 DM,< 0 DM,1409,12,car (used),good
+33,female,unskilled and resident,own,unknown/ no savings account,no checking account,797,12,radio/television,bad
+20,male,skilled,rent,unknown/ no savings account,>= 200 DM / salary assignments for at least 1 year,3617,24,furniture/equipment,good
+54,male,skilled,own,>= 1000 DM,0 <= ... < 200 DM,1318,12,car (new),good
+58,male,skilled,rent,< 100 DM,0 <= ... < 200 DM,15945,54,business,bad
+61,female,skilled,own,unknown/ no savings account,no checking account,2012,12,education,good
+34,male,skilled,own,100 <= ... < 500 DM,0 <= ... < 200 DM,2622,18,business,good
+36,male,skilled,own,< 100 DM,0 <= ... < 200 DM,2337,36,radio/television,good
+36,male,highly qualified,rent,unknown/ no savings account,0 <= ... < 200 DM,7057,20,car (used),good
+41,male,unskilled and resident,rent,100 <= ... < 500 DM,no checking account,1469,24,car (new),good
+24,male,skilled,rent,< 100 DM,0 <= ... < 200 DM,2323,36,radio/television,good
+24,female,skilled,own,< 100 DM,no checking account,932,6,radio/television,good
+35,male,skilled,rent,< 100 DM,0 <= ... < 200 DM,1919,9,furniture/equipment,good
+26,male,skilled,rent,unknown/ no savings account,no checking account,2445,12,car (used),good
+39,male,highly qualified,own,< 100 DM,0 <= ... < 200 DM,11938,24,others,bad
+39,male,highly qualified,own,< 100 DM,no checking account,6458,18,car (new),bad
+32,male,skilled,own,< 100 DM,0 <= ... < 200 DM,6078,12,car (new),good
+30,female,skilled,own,unknown/ no savings account,< 0 DM,7721,24,furniture/equipment,good
+35,male,skilled,own,500 <= ... < 1000 DM,0 <= ... < 200 DM,1410,14,business,good
+31,male,skilled,own,100 <= ... < 500 DM,0 <= ... < 200 DM,1449,6,business,good
+23,female,skilled,rent,< 100 DM,>= 200 DM / salary assignments for at least 1 year,392,15,education,good
+28,male,unskilled and resident,rent,< 100 DM,0 <= ... < 200 DM,6260,18,car (new),good
+25,female,skilled,own,< 100 DM,no checking account,7855,36,car (new),bad
+35,male,skilled,own,500 <= ... < 1000 DM,< 0 DM,1680,12,radio/television,good
+47,male,skilled,own,unknown/ no savings account,no checking account,3578,48,radio/television,good
+30,female,highly qualified,own,unknown/ no savings account,< 0 DM,7174,42,radio/television,bad
+27,female,skilled,rent,unknown/ no savings account,< 0 DM,2132,10,furniture/equipment,good
+23,female,skilled,own,500 <= ... < 1000 DM,< 0 DM,4281,33,furniture/equipment,bad
+36,male,highly qualified,own,500 <= ... < 1000 DM,0 <= ... < 200 DM,2366,12,car (new),good
+25,female,skilled,own,< 100 DM,< 0 DM,1835,21,radio/television,bad
+41,female,highly qualified,rent,< 100 DM,no checking account,3868,24,car (used),good
+24,male,unskilled and resident,rent,< 100 DM,no checking account,1768,12,furniture/equipment,good
+63,male,skilled,free,< 100 DM,>= 200 DM / salary assignments for at least 1 year,781,10,car (new),good
+27,female,skilled,rent,unknown/ no savings account,0 <= ... < 200 DM,1924,18,furniture/equipment,bad
+30,male,skilled,own,< 100 DM,< 0 DM,2121,12,car (new),good
+40,male,unskilled and resident,own,< 100 DM,< 0 DM,701,12,radio/television,good
+30,male,skilled,own,< 100 DM,0 <= ... < 200 DM,639,12,repairs,bad
+34,male,highly qualified,own,< 100 DM,0 <= ... < 200 DM,1860,12,car (used),good
+29,female,skilled,own,< 100 DM,< 0 DM,3499,12,car (new),bad
+24,female,skilled,own,unknown/ no savings account,0 <= ... < 200 DM,8487,48,car (new),good
+29,male,skilled,own,< 100 DM,< 0 DM,6887,36,education,bad
+27,male,unskilled and resident,own,< 100 DM,no checking account,2708,15,furniture/equipment,good
+47,male,skilled,free,< 100 DM,no checking account,1984,18,furniture/equipment,good
+21,female,skilled,own,100 <= ... < 500 DM,no checking account,10144,60,radio/television,good
+38,female,skilled,own,unknown/ no savings account,no checking account,1240,12,radio/television,good
+27,male,skilled,own,>= 1000 DM,no checking account,8613,27,car (used),good
+66,male,unskilled and resident,own,500 <= ... < 1000 DM,0 <= ... < 200 DM,766,12,radio/television,bad
+35,male,skilled,own,unknown/ no savings account,0 <= ... < 200 DM,2728,15,radio/television,good
+44,female,unskilled and resident,rent,< 100 DM,>= 200 DM / salary assignments for at least 1 year,1881,12,radio/television,good
+27,male,unskilled and non-resident,own,>= 1000 DM,>= 200 DM / salary assignments for at least 1 year,709,6,car (new),good
+30,female,highly qualified,own,< 100 DM,0 <= ... < 200 DM,4795,36,radio/television,good
+27,male,highly qualified,own,< 100 DM,< 0 DM,3416,27,radio/television,good
+22,male,skilled,own,< 100 DM,< 0 DM,2462,18,furniture/equipment,bad
+23,female,skilled,own,< 100 DM,no checking account,2288,21,furniture/equipment,good
+30,male,skilled,own,100 <= ... < 500 DM,0 <= ... < 200 DM,3566,48,business,good
+39,female,skilled,own,< 100 DM,< 0 DM,860,6,car (new),good
+51,female,skilled,own,100 <= ... < 500 DM,no checking account,682,12,car (new),good
+28,male,skilled,own,< 100 DM,< 0 DM,5371,36,furniture/equipment,good
+46,male,skilled,own,>= 1000 DM,no checking account,1582,18,radio/television,good
+42,male,skilled,free,100 <= ... < 500 DM,no checking account,1346,6,radio/television,good
+38,male,skilled,own,< 100 DM,no checking account,1924,10,radio/television,good
+24,male,skilled,own,< 100 DM,>= 200 DM / salary assignments for at least 1 year,5848,36,radio/television,good
+29,female,skilled,rent,>= 1000 DM,0 <= ... < 200 DM,7758,24,car (used),good
+36,male,highly qualified,rent,100 <= ... < 500 DM,0 <= ... < 200 DM,6967,24,business,good
+20,female,skilled,rent,< 100 DM,< 0 DM,1282,12,furniture/equipment,bad
+48,male,skilled,own,100 <= ... < 500 DM,< 0 DM,1288,9,repairs,good
+45,male,unskilled and resident,own,< 100 DM,< 0 DM,339,12,retraining,good
+38,male,skilled,own,100 <= ... < 500 DM,0 <= ... < 200 DM,3512,24,car (new),good
+34,male,unskilled and resident,own,unknown/ no savings account,no checking account,1898,6,radio/television,good
+36,male,skilled,own,100 <= ... < 500 DM,no checking account,2872,24,radio/television,good
+30,female,skilled,own,< 100 DM,no checking account,1055,18,car (new),good
+36,male,skilled,own,500 <= ... < 1000 DM,no checking account,1262,15,domestic appliances,good
+70,male,highly qualified,free,< 100 DM,0 <= ... < 200 DM,7308,10,car (new),good
+36,male,skilled,own,500 <= ... < 1000 DM,no checking account,909,36,car (new),good
+32,male,skilled,own,500 <= ... < 1000 DM,no checking account,2978,6,furniture/equipment,good
+33,female,skilled,own,< 100 DM,< 0 DM,1131,18,furniture/equipment,bad
+20,female,skilled,own,>= 1000 DM,0 <= ... < 200 DM,1577,11,furniture/equipment,good
+25,female,skilled,rent,< 100 DM,no checking account,3972,24,furniture/equipment,good
+31,male,skilled,own,< 100 DM,0 <= ... < 200 DM,1935,24,business,bad
+33,male,skilled,rent,< 100 DM,< 0 DM,950,15,car (new),bad
+26,female,skilled,own,< 100 DM,no checking account,763,12,furniture/equipment,good
+34,female,highly qualified,own,< 100 DM,0 <= ... < 200 DM,2064,24,furniture/equipment,bad
+33,male,skilled,own,< 100 DM,0 <= ... < 200 DM,1414,8,radio/television,good
+26,male,skilled,own,< 100 DM,< 0 DM,3414,21,education,bad
+53,female,highly qualified,own,unknown/ no savings account,no checking account,7485,30,car (used),bad
+42,male,skilled,own,< 100 DM,< 0 DM,2577,12,furniture/equipment,good
+52,male,skilled,own,500 <= ... < 1000 DM,< 0 DM,338,6,radio/television,good
+31,male,highly qualified,rent,< 100 DM,no checking account,1963,12,radio/television,good
+65,male,skilled,own,< 100 DM,< 0 DM,571,21,car (new),good
+28,male,skilled,own,< 100 DM,no checking account,9572,36,business,bad
+30,male,highly qualified,own,< 100 DM,0 <= ... < 200 DM,4455,36,business,bad
+40,male,unskilled and resident,own,unknown/ no savings account,< 0 DM,1647,21,car (new),bad
+50,male,skilled,own,>= 1000 DM,no checking account,3777,24,furniture/equipment,good
+36,male,skilled,own,< 100 DM,0 <= ... < 200 DM,884,18,car (new),bad
+31,male,skilled,own,< 100 DM,no checking account,1360,15,radio/television,good
+74,female,highly qualified,free,< 100 DM,0 <= ... < 200 DM,5129,9,car (used),bad
+68,male,unskilled and non-resident,free,< 100 DM,0 <= ... < 200 DM,1175,16,car (new),good
+20,male,skilled,own,100 <= ... < 500 DM,< 0 DM,674,12,radio/television,bad
+33,female,skilled,own,< 100 DM,0 <= ... < 200 DM,3244,18,furniture/equipment,good
+54,male,highly qualified,own,>= 1000 DM,no checking account,4591,24,business,bad
+34,male,unskilled and resident,free,100 <= ... < 500 DM,0 <= ... < 200 DM,3844,48,business,bad
+36,male,skilled,own,< 100 DM,0 <= ... < 200 DM,3915,27,business,bad
+29,male,skilled,rent,< 100 DM,no checking account,2108,6,radio/television,good
+21,male,skilled,rent,100 <= ... < 500 DM,0 <= ... < 200 DM,3031,45,radio/television,bad
+34,female,highly qualified,own,< 100 DM,0 <= ... < 200 DM,1501,9,education,bad
+28,female,skilled,own,< 100 DM,no checking account,1382,6,radio/television,good
+27,female,skilled,rent,100 <= ... < 500 DM,0 <= ... < 200 DM,951,12,furniture/equipment,bad
+36,male,skilled,free,unknown/ no savings account,0 <= ... < 200 DM,2760,24,car (used),good
+40,male,highly qualified,own,< 100 DM,0 <= ... < 200 DM,4297,18,furniture/equipment,bad
+52,male,skilled,own,500 <= ... < 1000 DM,no checking account,936,9,education,good
+27,male,unskilled and resident,own,< 100 DM,< 0 DM,1168,12,car (new),good
+26,male,skilled,own,< 100 DM,no checking account,5117,27,business,good
+21,male,skilled,rent,< 100 DM,< 0 DM,902,12,retraining,bad
+38,male,unskilled and resident,own,< 100 DM,no checking account,1495,12,car (new),good
+38,male,highly qualified,free,< 100 DM,< 0 DM,10623,30,car (used),good
+43,male,skilled,own,< 100 DM,no checking account,1935,12,furniture/equipment,good
+26,male,skilled,own,< 100 DM,0 <= ... < 200 DM,1424,12,domestic appliances,good
+21,male,unskilled and resident,own,< 100 DM,< 0 DM,6568,24,business,good
+55,male,skilled,own,>= 1000 DM,no checking account,1413,12,car (used),good
+33,male,skilled,own,unknown/ no savings account,no checking account,3074,9,radio/television,good
+45,female,unskilled and resident,own,unknown/ no savings account,no checking account,3835,36,radio/television,good
+50,male,skilled,own,< 100 DM,< 0 DM,5293,27,business,bad
+66,male,highly qualified,own,< 100 DM,>= 200 DM / salary assignments for at least 1 year,1908,30,business,bad
+51,male,skilled,own,unknown/ no savings account,no checking account,3342,36,radio/television,good
+39,female,unskilled and resident,own,unknown/ no savings account,0 <= ... < 200 DM,932,6,retraining,good
+31,male,skilled,own,< 100 DM,< 0 DM,3104,18,business,good
+23,male,skilled,own,< 100 DM,>= 200 DM / salary assignments for at least 1 year,3913,36,radio/television,good
+24,male,unskilled and resident,rent,< 100 DM,< 0 DM,3021,24,furniture/equipment,good
+64,female,skilled,own,< 100 DM,no checking account,1364,10,car (new),good
+26,male,unskilled and resident,own,< 100 DM,0 <= ... < 200 DM,625,12,radio/television,good
+23,female,skilled,rent,unknown/ no savings account,< 0 DM,1200,12,education,good
+30,male,skilled,own,< 100 DM,no checking account,707,12,radio/television,good
+32,male,skilled,own,unknown/ no savings account,no checking account,2978,24,business,good
+30,male,skilled,own,< 100 DM,no checking account,4657,15,car (used),good
+27,male,skilled,own,< 100 DM,no checking account,2613,36,repairs,good
+27,male,skilled,own,>= 1000 DM,0 <= ... < 200 DM,10961,48,radio/television,bad
+53,male,highly qualified,free,< 100 DM,< 0 DM,7865,12,furniture/equipment,bad
+22,male,skilled,own,< 100 DM,no checking account,1478,9,radio/television,bad
+22,male,skilled,free,< 100 DM,< 0 DM,3149,24,furniture/equipment,good
+26,male,skilled,own,< 100 DM,>= 200 DM / salary assignments for at least 1 year,4210,36,radio/television,bad
+51,male,unskilled and resident,free,500 <= ... < 1000 DM,no checking account,2507,9,car (new),good
+35,male,skilled,own,100 <= ... < 500 DM,no checking account,2141,12,radio/television,good
+25,male,unskilled and resident,own,< 100 DM,0 <= ... < 200 DM,866,18,radio/television,good
+42,male,unskilled and resident,own,< 100 DM,no checking account,1544,4,radio/television,good
+30,male,highly qualified,own,< 100 DM,< 0 DM,1823,24,radio/television,bad
+23,male,unskilled and non-resident,own,unknown/ no savings account,0 <= ... < 200 DM,14555,6,car (new),bad
+61,male,unskilled and resident,rent,100 <= ... < 500 DM,0 <= ... < 200 DM,2767,21,business,bad
+35,female,skilled,own,< 100 DM,no checking account,1291,12,radio/television,good
+39,male,skilled,own,< 100 DM,< 0 DM,2522,30,radio/television,good
+29,female,skilled,own,unknown/ no savings account,< 0 DM,915,24,car (new),bad
+51,male,skilled,own,< 100 DM,no checking account,1595,6,radio/television,good
+24,male,skilled,free,< 100 DM,< 0 DM,4605,48,car (used),bad
+27,female,skilled,own,< 100 DM,no checking account,1185,12,business,good
+35,female,unskilled and resident,own,500 <= ... < 1000 DM,no checking account,3447,12,retraining,good
+25,male,skilled,own,< 100 DM,no checking account,1258,24,business,good
+52,male,skilled,own,< 100 DM,no checking account,717,12,radio/television,good
+35,male,skilled,rent,100 <= ... < 500 DM,no checking account,1204,6,car (new),good
+26,male,skilled,own,< 100 DM,>= 200 DM / salary assignments for at least 1 year,1925,24,furniture/equipment,good
+22,female,skilled,rent,< 100 DM,no checking account,433,18,radio/television,bad
+39,female,unskilled and resident,own,>= 1000 DM,< 0 DM,666,6,car (new),good
+46,female,unskilled and resident,own,< 100 DM,>= 200 DM / salary assignments for at least 1 year,2251,12,furniture/equipment,good
+24,female,skilled,own,< 100 DM,0 <= ... < 200 DM,2150,30,car (new),bad
+35,male,skilled,own,100 <= ... < 500 DM,no checking account,4151,24,furniture/equipment,good
+24,male,skilled,own,unknown/ no savings account,0 <= ... < 200 DM,2030,9,furniture/equipment,good
+27,male,unskilled and resident,own,unknown/ no savings account,0 <= ... < 200 DM,7418,60,radio/television,good
+35,male,unskilled and resident,own,< 100 DM,no checking account,2684,24,radio/television,good
+29,male,skilled,free,< 100 DM,< 0 DM,2149,12,radio/television,bad
+23,female,skilled,own,100 <= ... < 500 DM,no checking account,3812,15,car (used),good
+57,female,unskilled and resident,own,100 <= ... < 500 DM,no checking account,1154,11,radio/television,good
+27,male,skilled,own,< 100 DM,< 0 DM,1657,12,furniture/equipment,good
+55,female,skilled,own,< 100 DM,< 0 DM,1603,24,radio/television,good
+36,male,highly qualified,free,< 100 DM,< 0 DM,5302,18,car (new),good
+57,female,unskilled and resident,free,< 100 DM,no checking account,2748,12,education,good
+32,male,unskilled and resident,own,< 100 DM,no checking account,1231,10,car (new),good
+37,male,skilled,own,< 100 DM,0 <= ... < 200 DM,802,15,radio/television,bad
+36,male,skilled,own,unknown/ no savings account,no checking account,6304,36,business,good
+38,female,skilled,own,< 100 DM,no checking account,1533,24,radio/television,good
+45,male,highly qualified,own,< 100 DM,< 0 DM,8978,14,car (new),bad
+25,male,skilled,own,unknown/ no savings account,no checking account,999,24,radio/television,good
+32,male,skilled,own,unknown/ no savings account,no checking account,2662,18,car (new),good
+37,female,skilled,rent,500 <= ... < 1000 DM,no checking account,1402,12,furniture/equipment,good
+36,male,highly qualified,free,unknown/ no savings account,0 <= ... < 200 DM,12169,48,car (new),good
+28,male,skilled,own,< 100 DM,0 <= ... < 200 DM,3060,48,radio/television,bad
+34,male,unskilled and resident,own,< 100 DM,< 0 DM,11998,30,repairs,bad
+32,male,skilled,own,< 100 DM,no checking account,2697,9,radio/television,good
+26,female,skilled,own,< 100 DM,no checking account,2404,18,radio/television,good
+49,male,unskilled and resident,own,unknown/ no savings account,< 0 DM,1262,12,furniture/equipment,good
+32,female,skilled,own,< 100 DM,no checking account,4611,6,furniture/equipment,bad
+29,male,highly qualified,rent,100 <= ... < 500 DM,no checking account,1901,24,radio/television,good
+23,male,skilled,rent,>= 1000 DM,no checking account,3368,15,car (used),good
+50,male,skilled,own,< 100 DM,no checking account,1574,12,furniture/equipment,good
+49,male,unskilled and resident,own,unknown/ no savings account,>= 200 DM / salary assignments for at least 1 year,1445,18,radio/television,good
+63,male,skilled,own,unknown/ no savings account,no checking account,1520,15,furniture/equipment,good
+37,male,skilled,own,100 <= ... < 500 DM,0 <= ... < 200 DM,3878,24,car (new),good
+35,female,unskilled and resident,own,< 100 DM,< 0 DM,10722,47,car (new),good
+26,male,skilled,own,< 100 DM,< 0 DM,4788,48,car (used),good
+31,male,highly qualified,free,100 <= ... < 500 DM,0 <= ... < 200 DM,7582,48,others,good
+49,female,skilled,own,< 100 DM,0 <= ... < 200 DM,1092,12,radio/television,good
+48,male,skilled,own,< 100 DM,< 0 DM,1024,24,radio/television,bad
+26,male,skilled,own,< 100 DM,no checking account,1076,12,business,good
+28,male,highly qualified,rent,< 100 DM,0 <= ... < 200 DM,9398,36,car (used),bad
+44,female,highly qualified,free,< 100 DM,< 0 DM,6419,24,car (used),good
+56,male,skilled,free,< 100 DM,>= 200 DM / salary assignments for at least 1 year,4796,42,car (used),good
+46,male,highly qualified,own,unknown/ no savings account,no checking account,7629,48,business,good
+26,female,skilled,own,< 100 DM,0 <= ... < 200 DM,9960,48,furniture/equipment,bad
+20,female,skilled,rent,unknown/ no savings account,no checking account,4675,12,car (used),good
+45,male,unskilled and resident,own,unknown/ no savings account,no checking account,1287,10,car (new),good
+43,male,skilled,own,< 100 DM,no checking account,2515,18,furniture/equipment,good
+32,male,skilled,own,>= 1000 DM,0 <= ... < 200 DM,2745,21,furniture/equipment,good
+54,female,unskilled and non-resident,own,< 100 DM,no checking account,672,6,car (new),good
+42,female,skilled,own,< 100 DM,0 <= ... < 200 DM,3804,36,radio/television,bad
+37,male,unskilled and resident,own,unknown/ no savings account,>= 200 DM / salary assignments for at least 1 year,1344,24,car (new),bad
+49,male,skilled,own,< 100 DM,< 0 DM,1038,10,car (new),good
+44,male,skilled,free,500 <= ... < 1000 DM,no checking account,10127,48,car (new),bad
+33,male,skilled,own,>= 1000 DM,no checking account,1543,6,furniture/equipment,good
+24,female,unskilled and resident,rent,unknown/ no savings account,no checking account,4811,30,car (used),good
+33,male,unskilled and resident,own,100 <= ... < 500 DM,< 0 DM,727,12,radio/television,bad
+24,female,skilled,own,< 100 DM,0 <= ... < 200 DM,1237,8,furniture/equipment,bad
+22,male,unskilled and resident,rent,< 100 DM,0 <= ... < 200 DM,276,9,car (new),good
+40,male,unskilled and non-resident,free,unknown/ no savings account,0 <= ... < 200 DM,5381,48,others,good
+25,male,skilled,own,100 <= ... < 500 DM,no checking account,5511,24,furniture/equipment,good
+26,female,skilled,own,< 100 DM,>= 200 DM / salary assignments for at least 1 year,3749,24,furniture/equipment,good
+25,male,unskilled and resident,own,< 100 DM,0 <= ... < 200 DM,685,12,car (new),bad
+29,male,unskilled and resident,own,unknown/ no savings account,>= 200 DM / salary assignments for at least 1 year,1494,4,car (new),good
+31,male,skilled,own,< 100 DM,< 0 DM,2746,36,furniture/equipment,bad
+38,male,unskilled and resident,own,< 100 DM,< 0 DM,708,12,furniture/equipment,good
+48,female,unskilled and resident,own,unknown/ no savings account,0 <= ... < 200 DM,4351,24,furniture/equipment,good
+32,male,skilled,own,< 100 DM,no checking account,701,12,education,good
+27,female,unskilled and resident,own,< 100 DM,< 0 DM,3643,15,furniture/equipment,good
+28,male,highly qualified,own,< 100 DM,0 <= ... < 200 DM,4249,30,car (new),bad
+32,male,skilled,own,< 100 DM,< 0 DM,1938,24,radio/television,bad
+34,male,highly qualified,free,< 100 DM,< 0 DM,2910,24,car (used),good
+28,male,skilled,own,>= 1000 DM,< 0 DM,2659,18,furniture/equipment,good
+36,female,skilled,own,< 100 DM,no checking account,1028,18,car (new),good
+39,male,unskilled and resident,own,< 100 DM,< 0 DM,3398,8,car (new),good
+49,male,skilled,rent,unknown/ no savings account,no checking account,5801,12,furniture/equipment,good
+34,female,skilled,own,>= 1000 DM,no checking account,1525,24,car (new),good
+31,male,skilled,own,< 100 DM,>= 200 DM / salary assignments for at least 1 year,4473,36,radio/television,good
+28,male,skilled,own,< 100 DM,0 <= ... < 200 DM,1068,6,radio/television,good
+75,male,highly qualified,free,< 100 DM,< 0 DM,6615,24,car (used),good
+30,female,skilled,own,100 <= ... < 500 DM,no checking account,1864,18,education,bad
+24,female,highly qualified,own,100 <= ... < 500 DM,0 <= ... < 200 DM,7408,60,car (new),bad
+24,female,unskilled and resident,rent,100 <= ... < 500 DM,no checking account,11590,48,car (used),bad
+23,male,skilled,rent,< 100 DM,< 0 DM,4110,24,furniture/equipment,bad
+44,male,highly qualified,rent,< 100 DM,< 0 DM,3384,6,furniture/equipment,bad
+23,female,unskilled and resident,own,< 100 DM,0 <= ... < 200 DM,2101,13,radio/television,good
+24,female,skilled,rent,unknown/ no savings account,< 0 DM,1275,15,domestic appliances,bad
+28,male,skilled,own,< 100 DM,< 0 DM,4169,24,furniture/equipment,good
+31,male,unskilled and resident,own,< 100 DM,0 <= ... < 200 DM,1521,10,furniture/equipment,good
+24,female,skilled,free,< 100 DM,0 <= ... < 200 DM,5743,24,education,good
+26,female,unskilled and resident,rent,< 100 DM,< 0 DM,3599,21,furniture/equipment,good
+25,male,skilled,rent,500 <= ... < 1000 DM,0 <= ... < 200 DM,3213,18,radio/television,good
+33,male,highly qualified,own,< 100 DM,0 <= ... < 200 DM,4439,18,business,good
+37,male,unskilled and resident,own,< 100 DM,>= 200 DM / salary assignments for at least 1 year,3949,10,car (new),good
+43,female,unskilled and resident,own,< 100 DM,no checking account,1459,15,radio/television,good
+23,male,skilled,own,< 100 DM,0 <= ... < 200 DM,882,13,radio/television,good
+23,female,unskilled and non-resident,rent,500 <= ... < 1000 DM,0 <= ... < 200 DM,3758,24,radio/television,good
+34,male,unskilled and resident,own,100 <= ... < 500 DM,no checking account,1743,6,business,good
+32,male,skilled,free,>= 1000 DM,0 <= ... < 200 DM,1136,9,education,bad
+23,female,skilled,rent,< 100 DM,no checking account,1236,9,domestic appliances,good
+29,female,skilled,own,< 100 DM,0 <= ... < 200 DM,959,9,furniture/equipment,bad
+38,male,highly qualified,own,unknown/ no savings account,no checking account,3229,18,car (used),good
+28,male,skilled,rent,< 100 DM,< 0 DM,6199,12,radio/television,bad
+46,male,skilled,free,500 <= ... < 1000 DM,no checking account,727,10,education,good
+23,male,unskilled and resident,own,< 100 DM,0 <= ... < 200 DM,1246,24,car (new),bad
+49,male,skilled,own,unknown/ no savings account,no checking account,2331,12,radio/television,good
+26,male,highly qualified,own,< 100 DM,no checking account,4463,36,radio/television,bad
+28,male,skilled,own,< 100 DM,no checking account,776,12,radio/television,good
+23,female,skilled,rent,< 100 DM,< 0 DM,2406,30,furniture/equipment,bad
+61,male,skilled,free,unknown/ no savings account,0 <= ... < 200 DM,1239,18,education,good
+37,male,highly qualified,own,unknown/ no savings account,>= 200 DM / salary assignments for at least 1 year,3399,12,radio/television,good
+36,female,skilled,own,< 100 DM,>= 200 DM / salary assignments for at least 1 year,2247,12,car (new),good
+21,male,skilled,rent,< 100 DM,no checking account,1766,6,furniture/equipment,good
+25,male,unskilled and non-resident,own,< 100 DM,< 0 DM,2473,18,furniture/equipment,bad
+36,male,skilled,own,< 100 DM,no checking account,1542,12,business,good
+27,male,skilled,own,< 100 DM,no checking account,3850,18,car (used),good
+22,female,skilled,rent,< 100 DM,< 0 DM,3650,18,furniture/equipment,good
+42,male,skilled,own,< 100 DM,< 0 DM,3446,36,furniture/equipment,bad
+40,female,skilled,rent,< 100 DM,0 <= ... < 200 DM,3001,18,furniture/equipment,good
+36,male,skilled,own,unknown/ no savings account,no checking account,3079,36,car (new),good
+33,male,skilled,own,< 100 DM,no checking account,6070,18,radio/television,good
+23,female,skilled,rent,< 100 DM,no checking account,2146,10,furniture/equipment,good
+63,male,highly qualified,free,unknown/ no savings account,no checking account,13756,60,car (new),good
+60,female,highly qualified,free,100 <= ... < 500 DM,0 <= ... < 200 DM,14782,60,others,bad
+37,female,skilled,rent,< 100 DM,< 0 DM,7685,48,business,bad
+34,male,skilled,own,< 100 DM,no checking account,2320,18,radio/television,good
+36,male,skilled,free,unknown/ no savings account,no checking account,846,7,radio/television,good
+57,male,highly qualified,free,< 100 DM,0 <= ... < 200 DM,14318,36,car (new),bad
+52,female,unskilled and resident,own,100 <= ... < 500 DM,no checking account,362,6,car (new),good
+39,male,skilled,own,unknown/ no savings account,< 0 DM,2212,20,furniture/equipment,good
+38,female,highly qualified,free,< 100 DM,0 <= ... < 200 DM,12976,18,car (used),bad
+25,female,skilled,rent,unknown/ no savings account,no checking account,1283,22,car (new),good
+26,male,skilled,own,< 100 DM,>= 200 DM / salary assignments for at least 1 year,1330,12,car (new),good
+26,male,unskilled and resident,own,100 <= ... < 500 DM,no checking account,4272,30,business,good
+25,female,skilled,own,< 100 DM,no checking account,2238,18,radio/television,good
+21,female,skilled,rent,unknown/ no savings account,no checking account,1126,18,radio/television,good
+40,male,highly qualified,own,< 100 DM,0 <= ... < 200 DM,7374,18,furniture/equipment,good
+27,male,skilled,own,500 <= ... < 1000 DM,0 <= ... < 200 DM,2326,15,business,good
+27,female,skilled,own,< 100 DM,no checking account,1449,9,business,good
+30,male,highly qualified,own,< 100 DM,no checking account,1820,18,car (new),good
+19,female,unskilled and resident,rent,>= 1000 DM,0 <= ... < 200 DM,983,12,furniture/equipment,good
+39,male,highly qualified,free,< 100 DM,< 0 DM,3249,36,car (new),good
+31,female,skilled,own,< 100 DM,< 0 DM,1957,6,radio/television,good
+31,male,highly qualified,own,< 100 DM,no checking account,2406,9,furniture/equipment,good
+32,male,skilled,rent,100 <= ... < 500 DM,0 <= ... < 200 DM,11760,39,education,good
+55,female,highly qualified,free,< 100 DM,< 0 DM,2578,12,furniture/equipment,good
+46,male,skilled,own,< 100 DM,< 0 DM,2348,36,furniture/equipment,good
+46,male,skilled,rent,< 100 DM,0 <= ... < 200 DM,1223,12,car (new),bad
+43,female,unskilled and resident,own,>= 1000 DM,no checking account,1516,24,radio/television,good
+39,male,skilled,own,< 100 DM,no checking account,1473,18,radio/television,good
+28,male,skilled,own,unknown/ no savings account,0 <= ... < 200 DM,1887,18,business,good
+27,male,skilled,own,< 100 DM,no checking account,8648,24,business,bad
+27,male,unskilled and resident,own,< 100 DM,no checking account,802,14,car (new),good
+43,male,skilled,own,unknown/ no savings account,0 <= ... < 200 DM,2899,18,car (new),good
+22,male,skilled,own,< 100 DM,0 <= ... < 200 DM,2039,24,radio/television,bad
+43,male,skilled,own,unknown/ no savings account,no checking account,2197,24,car (used),good
+27,male,skilled,own,< 100 DM,< 0 DM,1053,15,radio/television,good
+26,male,highly qualified,own,500 <= ... < 1000 DM,no checking account,3235,24,radio/television,good
+28,male,skilled,own,500 <= ... < 1000 DM,>= 200 DM / salary assignments for at least 1 year,939,12,car (new),bad
+20,female,skilled,own,< 100 DM,0 <= ... < 200 DM,1967,24,radio/television,good
+35,male,highly qualified,own,< 100 DM,no checking account,7253,33,car (used),good
+42,male,highly qualified,own,< 100 DM,no checking account,2292,12,business,bad
+40,male,unskilled and resident,rent,500 <= ... < 1000 DM,no checking account,1597,10,car (new),good
+35,female,skilled,own,unknown/ no savings account,< 0 DM,1381,24,car (new),bad
+35,male,skilled,own,< 100 DM,no checking account,5842,36,car (used),good
+33,male,unskilled and resident,own,< 100 DM,< 0 DM,2579,12,car (new),bad
+23,female,skilled,rent,unknown/ no savings account,< 0 DM,8471,18,education,good
+31,female,highly qualified,own,500 <= ... < 1000 DM,no checking account,2782,21,car (new),good
+33,female,skilled,own,unknown/ no savings account,0 <= ... < 200 DM,1042,18,car (new),bad
+20,female,skilled,rent,>= 1000 DM,no checking account,3186,15,car (new),good
+30,male,skilled,own,unknown/ no savings account,0 <= ... < 200 DM,2028,12,car (used),good
+47,male,unskilled and resident,own,< 100 DM,0 <= ... < 200 DM,958,12,car (new),good
+34,male,highly qualified,own,100 <= ... < 500 DM,no checking account,1591,21,furniture/equipment,good
+25,female,skilled,own,unknown/ no savings account,0 <= ... < 200 DM,2762,12,furniture/equipment,bad
+21,male,skilled,rent,< 100 DM,0 <= ... < 200 DM,2779,18,car (used),good
+29,male,skilled,own,< 100 DM,no checking account,2743,28,radio/television,good
+46,male,skilled,own,>= 1000 DM,no checking account,1149,18,radio/television,good
+20,male,skilled,own,< 100 DM,no checking account,1313,9,furniture/equipment,good
+55,female,unskilled and non-resident,free,< 100 DM,< 0 DM,1190,18,repairs,bad
+74,male,unskilled and resident,own,< 100 DM,no checking account,3448,5,business,good
+29,male,highly qualified,own,< 100 DM,0 <= ... < 200 DM,11328,24,others,bad
+36,male,highly qualified,free,< 100 DM,< 0 DM,1872,6,furniture/equipment,good
+33,male,skilled,own,< 100 DM,no checking account,2058,24,repairs,good
+25,male,skilled,own,< 100 DM,< 0 DM,2136,9,furniture/equipment,good
+25,male,skilled,own,unknown/ no savings account,0 <= ... < 200 DM,1484,12,radio/television,bad
+23,male,unskilled and resident,rent,500 <= ... < 1000 DM,no checking account,660,6,repairs,good
+37,female,skilled,own,>= 1000 DM,no checking account,1287,24,car (new),good
+65,male,unskilled and non-resident,own,< 100 DM,< 0 DM,3394,42,repairs,good
+26,female,unskilled and non-resident,own,< 100 DM,>= 200 DM / salary assignments for at least 1 year,609,12,business,bad
+39,male,highly qualified,own,< 100 DM,no checking account,1884,12,car (new),good
+30,female,skilled,own,< 100 DM,< 0 DM,1620,12,furniture/equipment,good
+29,male,skilled,own,< 100 DM,0 <= ... < 200 DM,2629,20,others,good
+41,male,unskilled and resident,own,< 100 DM,no checking account,719,12,education,bad
+30,female,highly qualified,own,< 100 DM,0 <= ... < 200 DM,5096,48,furniture/equipment,bad
+41,female,unskilled and resident,rent,unknown/ no savings account,no checking account,1244,9,education,good
+34,female,skilled,own,< 100 DM,< 0 DM,1842,36,car (new),bad
+35,male,skilled,own,< 100 DM,0 <= ... < 200 DM,2576,7,radio/television,good
+55,female,highly qualified,own,unknown/ no savings account,>= 200 DM / salary assignments for at least 1 year,1424,12,furniture/equipment,good
+61,male,skilled,own,>= 1000 DM,0 <= ... < 200 DM,1512,15,repairs,bad
+30,male,highly qualified,own,unknown/ no savings account,no checking account,11054,36,car (used),good
+29,female,skilled,own,< 100 DM,no checking account,518,6,radio/television,good
+34,male,skilled,own,< 100 DM,no checking account,2759,12,furniture/equipment,good
+35,male,highly qualified,own,< 100 DM,no checking account,2670,24,car (used),good
+31,male,skilled,own,< 100 DM,< 0 DM,4817,24,car (new),bad
+29,female,highly qualified,own,< 100 DM,no checking account,2679,24,car (used),good
+36,male,skilled,rent,< 100 DM,< 0 DM,3905,11,car (new),good
+35,male,skilled,free,< 100 DM,< 0 DM,3386,12,car (used),bad
+27,female,skilled,own,< 100 DM,< 0 DM,343,6,domestic appliances,good
+32,male,skilled,own,< 100 DM,no checking account,4594,18,radio/television,good
+37,male,skilled,own,< 100 DM,< 0 DM,3620,36,furniture/equipment,good
+36,male,skilled,own,< 100 DM,< 0 DM,1721,15,car (new),good
+34,female,highly qualified,rent,< 100 DM,0 <= ... < 200 DM,3017,12,furniture/equipment,good
+38,male,skilled,own,unknown/ no savings account,0 <= ... < 200 DM,754,12,retraining,good
+34,male,skilled,own,< 100 DM,no checking account,1950,18,business,good
+63,male,skilled,own,< 100 DM,< 0 DM,2924,24,car (used),good
+29,female,unskilled and resident,rent,< 100 DM,< 0 DM,1659,24,radio/television,bad
+32,male,skilled,own,unknown/ no savings account,no checking account,7238,48,radio/television,good
+26,female,skilled,own,< 100 DM,no checking account,2764,33,business,good
+35,male,unskilled and resident,own,< 100 DM,no checking account,4679,24,car (used),good
+22,male,skilled,rent,100 <= ... < 500 DM,0 <= ... < 200 DM,3092,24,radio/television,bad
+23,female,skilled,own,< 100 DM,< 0 DM,448,6,education,bad
+28,male,unskilled and resident,own,< 100 DM,< 0 DM,654,9,car (new),bad
+36,male,highly qualified,own,unknown/ no savings account,no checking account,1238,6,retraining,good
+33,male,skilled,own,< 100 DM,0 <= ... < 200 DM,1245,18,radio/television,bad
+26,female,skilled,rent,< 100 DM,< 0 DM,3114,18,furniture/equipment,bad
+24,male,skilled,own,500 <= ... < 1000 DM,no checking account,2569,39,car (used),good
+25,male,skilled,own,< 100 DM,>= 200 DM / salary assignments for at least 1 year,5152,24,radio/television,good
+39,male,unskilled and resident,own,100 <= ... < 500 DM,0 <= ... < 200 DM,1037,12,business,good
+44,male,skilled,own,< 100 DM,< 0 DM,1478,15,furniture/equipment,good
+23,female,unskilled and resident,own,< 100 DM,0 <= ... < 200 DM,3573,12,radio/television,good
+26,male,skilled,own,< 100 DM,0 <= ... < 200 DM,1201,24,car (new),good
+57,female,skilled,rent,>= 1000 DM,< 0 DM,3622,30,furniture/equipment,good
+30,female,skilled,own,>= 1000 DM,no checking account,960,15,furniture/equipment,good
+44,male,skilled,own,500 <= ... < 1000 DM,no checking account,1163,12,car (new),good
+47,male,highly qualified,own,< 100 DM,0 <= ... < 200 DM,1209,6,car (new),bad
+52,male,skilled,own,< 100 DM,no checking account,3077,12,radio/television,good
+62,female,skilled,free,< 100 DM,no checking account,3757,24,car (new),good
+35,male,unskilled and resident,rent,100 <= ... < 500 DM,no checking account,1418,10,car (new),good
+26,male,skilled,rent,< 100 DM,no checking account,3518,6,car (new),good
+26,male,skilled,own,< 100 DM,no checking account,1934,12,radio/television,good
+42,female,highly qualified,free,< 100 DM,0 <= ... < 200 DM,8318,27,business,bad
+27,female,skilled,own,100 <= ... < 500 DM,no checking account,1237,6,radio/television,good
+38,male,skilled,own,unknown/ no savings account,0 <= ... < 200 DM,368,6,radio/television,good
+39,male,unskilled and resident,rent,< 100 DM,< 0 DM,2122,12,car (new),good
+20,male,skilled,own,unknown/ no savings account,< 0 DM,2996,24,furniture/equipment,bad
+29,male,highly qualified,rent,100 <= ... < 500 DM,0 <= ... < 200 DM,9034,36,furniture/equipment,bad
+40,male,skilled,own,< 100 DM,no checking account,1585,24,furniture/equipment,good
+32,male,unskilled and resident,own,< 100 DM,0 <= ... < 200 DM,1301,18,radio/television,good
+28,male,skilled,own,100 <= ... < 500 DM,>= 200 DM / salary assignments for at least 1 year,1323,6,car (new),good
+27,female,skilled,own,< 100 DM,< 0 DM,3123,24,car (new),bad
+42,male,skilled,free,< 100 DM,< 0 DM,5493,36,car (used),good
+49,male,skilled,own,100 <= ... < 500 DM,>= 200 DM / salary assignments for at least 1 year,1126,9,radio/television,good
+38,male,skilled,own,100 <= ... < 500 DM,0 <= ... < 200 DM,1216,24,radio/television,bad
+24,female,skilled,rent,< 100 DM,< 0 DM,1207,24,car (new),bad
+27,male,unskilled and resident,own,unknown/ no savings account,no checking account,1309,10,car (new),bad
+36,male,skilled,own,500 <= ... < 1000 DM,>= 200 DM / salary assignments for at least 1 year,2360,15,car (used),good
+34,male,highly qualified,own,100 <= ... < 500 DM,0 <= ... < 200 DM,6850,15,car (new),bad
+28,male,skilled,own,< 100 DM,no checking account,1413,24,radio/television,good
+45,male,highly qualified,own,100 <= ... < 500 DM,no checking account,8588,39,car (used),good
+26,male,skilled,own,< 100 DM,< 0 DM,759,12,car (new),bad
+32,male,highly qualified,free,< 100 DM,no checking account,4686,36,car (used),good
+26,male,skilled,rent,< 100 DM,>= 200 DM / salary assignments for at least 1 year,2687,15,business,good
+20,male,skilled,rent,< 100 DM,0 <= ... < 200 DM,585,12,radio/television,good
+54,male,skilled,own,unknown/ no savings account,no checking account,2255,24,car (new),good
+37,female,skilled,own,< 100 DM,< 0 DM,609,6,car (new),good
+40,male,unskilled and resident,own,< 100 DM,< 0 DM,1361,6,car (new),good
+23,female,skilled,rent,< 100 DM,no checking account,7127,36,furniture/equipment,bad
+43,male,skilled,own,100 <= ... < 500 DM,< 0 DM,1203,6,car (new),good
+36,male,skilled,free,unknown/ no savings account,no checking account,700,6,radio/television,good
+44,male,skilled,free,< 100 DM,no checking account,5507,24,repairs,good
+24,female,skilled,own,< 100 DM,< 0 DM,3190,18,radio/television,bad
+53,male,skilled,free,< 100 DM,< 0 DM,7119,48,furniture/equipment,bad
+23,female,skilled,own,100 <= ... < 500 DM,no checking account,3488,24,car (used),good
+26,female,unskilled and resident,own,< 100 DM,0 <= ... < 200 DM,1113,18,radio/television,good
+30,male,skilled,own,< 100 DM,0 <= ... < 200 DM,7966,26,car (used),good
+31,female,skilled,own,100 <= ... < 500 DM,no checking account,1532,15,education,good
+42,male,unskilled and resident,own,< 100 DM,no checking account,1503,4,radio/television,good
+31,male,skilled,rent,< 100 DM,< 0 DM,2302,36,radio/television,bad
+41,male,unskilled and resident,own,< 100 DM,< 0 DM,662,6,car (new),good
+32,male,skilled,own,< 100 DM,0 <= ... < 200 DM,2273,36,education,good
+28,female,skilled,rent,100 <= ... < 500 DM,0 <= ... < 200 DM,2631,15,car (new),bad
+41,male,skilled,rent,< 100 DM,no checking account,1503,12,car (used),good
+26,male,skilled,own,100 <= ... < 500 DM,no checking account,1311,24,radio/television,good
+25,male,skilled,own,unknown/ no savings account,no checking account,3105,24,radio/television,good
+33,male,skilled,rent,< 100 DM,>= 200 DM / salary assignments for at least 1 year,2319,21,education,bad
+75,female,highly qualified,own,unknown/ no savings account,< 0 DM,1374,6,car (new),good
+37,female,skilled,own,< 100 DM,0 <= ... < 200 DM,3612,18,furniture/equipment,good
+42,male,highly qualified,free,< 100 DM,< 0 DM,7763,48,car (new),bad
+45,female,unskilled and resident,own,< 100 DM,>= 200 DM / salary assignments for at least 1 year,3049,18,furniture/equipment,good
+23,male,skilled,rent,< 100 DM,0 <= ... < 200 DM,1534,12,radio/television,bad
+60,male,skilled,free,< 100 DM,no checking account,2032,24,car (new),good
+31,male,skilled,own,unknown/ no savings account,< 0 DM,6350,30,furniture/equipment,bad
+34,male,unskilled and resident,own,< 100 DM,>= 200 DM / salary assignments for at least 1 year,2864,18,furniture/equipment,bad
+61,male,unskilled and resident,own,< 100 DM,no checking account,1255,12,car (new),good
+43,male,skilled,free,< 100 DM,< 0 DM,1333,24,car (new),bad
+37,female,skilled,own,< 100 DM,no checking account,2022,24,car (new),good
+32,male,skilled,own,< 100 DM,no checking account,1552,24,radio/television,good
+24,female,unskilled and resident,own,< 100 DM,< 0 DM,626,12,radio/television,bad
+35,male,skilled,free,unknown/ no savings account,no checking account,8858,48,car (used),good
+23,female,skilled,own,unknown/ no savings account,no checking account,996,12,repairs,good
+45,male,unskilled and resident,own,500 <= ... < 1000 DM,no checking account,1750,6,radio/television,good
+34,male,skilled,own,< 100 DM,< 0 DM,6999,48,radio/television,bad
+27,male,skilled,own,100 <= ... < 500 DM,0 <= ... < 200 DM,1995,12,car (new),good
+67,female,highly qualified,own,< 100 DM,0 <= ... < 200 DM,1199,9,education,good
+22,male,skilled,own,< 100 DM,0 <= ... < 200 DM,1331,12,radio/television,bad
+28,female,skilled,own,100 <= ... < 500 DM,0 <= ... < 200 DM,2278,18,car (new),bad
+29,female,skilled,own,unknown/ no savings account,no checking account,5003,21,car (new),bad
+27,male,skilled,own,< 100 DM,< 0 DM,3552,24,furniture/equipment,bad
+31,male,unskilled and resident,own,< 100 DM,0 <= ... < 200 DM,1928,18,furniture/equipment,bad
+49,male,skilled,free,unknown/ no savings account,< 0 DM,2964,24,car (used),good
+24,male,unskilled and resident,rent,< 100 DM,< 0 DM,1546,24,radio/television,bad
+29,female,skilled,own,< 100 DM,>= 200 DM / salary assignments for at least 1 year,683,6,radio/television,good
+37,male,skilled,free,unknown/ no savings account,0 <= ... < 200 DM,12389,36,car (new),bad
+37,male,highly qualified,own,unknown/ no savings account,0 <= ... < 200 DM,4712,24,business,good
+23,female,skilled,rent,100 <= ... < 500 DM,0 <= ... < 200 DM,1553,24,radio/television,good
+36,male,skilled,own,< 100 DM,< 0 DM,1372,12,car (new),bad
+34,male,skilled,own,>= 1000 DM,no checking account,2578,24,radio/television,good
+41,male,skilled,own,unknown/ no savings account,0 <= ... < 200 DM,3979,48,radio/television,good
+31,female,skilled,own,< 100 DM,< 0 DM,6758,48,radio/television,bad
+23,female,unskilled and resident,rent,< 100 DM,< 0 DM,3234,24,furniture/equipment,bad
+38,male,skilled,own,< 100 DM,no checking account,5954,30,radio/television,good
+26,female,highly qualified,rent,unknown/ no savings account,no checking account,5433,24,car (used),good
+22,female,unskilled and resident,own,< 100 DM,< 0 DM,806,15,business,good
+27,male,unskilled and resident,own,< 100 DM,0 <= ... < 200 DM,1082,9,radio/television,good
+24,female,skilled,own,< 100 DM,no checking account,2788,15,furniture/equipment,good
+27,female,skilled,own,< 100 DM,0 <= ... < 200 DM,2930,12,radio/television,good
+33,female,skilled,own,unknown/ no savings account,no checking account,1927,24,education,good
+27,male,skilled,own,< 100 DM,0 <= ... < 200 DM,2820,36,car (new),bad
+27,male,unskilled and resident,own,< 100 DM,no checking account,937,24,retraining,good
+30,male,skilled,own,< 100 DM,0 <= ... < 200 DM,1056,18,car (new),bad
+49,male,unskilled and resident,own,< 100 DM,0 <= ... < 200 DM,3124,12,car (new),good
+26,female,skilled,rent,< 100 DM,no checking account,1388,9,furniture/equipment,good
+33,male,unskilled and resident,rent,< 100 DM,0 <= ... < 200 DM,2384,36,repairs,bad
+52,female,highly qualified,free,unknown/ no savings account,no checking account,2133,12,car (new),good
+20,female,skilled,rent,< 100 DM,< 0 DM,2039,18,furniture/equipment,bad
+36,male,skilled,rent,< 100 DM,< 0 DM,2799,9,car (new),good
+21,male,unskilled and resident,own,< 100 DM,< 0 DM,1289,12,furniture/equipment,good
+47,male,unskilled and resident,own,< 100 DM,< 0 DM,1217,18,domestic appliances,bad
+60,male,skilled,own,< 100 DM,< 0 DM,2246,12,furniture/equipment,bad
+58,female,unskilled and resident,own,< 100 DM,< 0 DM,385,12,radio/television,good
+42,female,skilled,rent,unknown/ no savings account,0 <= ... < 200 DM,1965,24,car (new),good
+36,female,unskilled and resident,own,>= 1000 DM,no checking account,1572,21,business,good
+20,female,unskilled and resident,rent,< 100 DM,0 <= ... < 200 DM,2718,24,car (new),bad
+40,male,highly qualified,own,unknown/ no savings account,< 0 DM,1358,24,others,bad
+32,female,unskilled and resident,own,100 <= ... < 500 DM,0 <= ... < 200 DM,931,6,car (new),bad
+23,female,skilled,rent,< 100 DM,< 0 DM,1442,24,car (new),bad
+36,male,unskilled and resident,own,< 100 DM,0 <= ... < 200 DM,4241,24,business,bad
+31,male,skilled,own,< 100 DM,no checking account,2775,18,car (new),bad
+32,male,skilled,free,< 100 DM,no checking account,3863,24,business,good
+45,female,skilled,own,< 100 DM,0 <= ... < 200 DM,2329,7,radio/television,good
+30,female,skilled,own,< 100 DM,0 <= ... < 200 DM,918,9,furniture/equipment,bad
+34,female,unskilled and resident,free,< 100 DM,0 <= ... < 200 DM,1837,24,education,bad
+28,female,highly qualified,own,< 100 DM,no checking account,3349,36,furniture/equipment,bad
+23,female,skilled,own,< 100 DM,>= 200 DM / salary assignments for at least 1 year,1275,10,furniture/equipment,good
+22,male,skilled,own,500 <= ... < 1000 DM,< 0 DM,2828,24,furniture/equipment,good
+74,male,highly qualified,own,< 100 DM,no checking account,4526,24,business,good
+50,female,skilled,free,100 <= ... < 500 DM,0 <= ... < 200 DM,2671,36,radio/television,bad
+33,male,skilled,own,< 100 DM,no checking account,2051,18,radio/television,good
+45,male,skilled,free,unknown/ no savings account,no checking account,1300,15,car (used),good
+22,female,skilled,own,100 <= ... < 500 DM,< 0 DM,741,12,domestic appliances,bad
+48,female,unskilled and resident,free,100 <= ... < 500 DM,>= 200 DM / salary assignments for at least 1 year,1240,10,car (new),bad
+29,female,skilled,own,>= 1000 DM,< 0 DM,3357,21,radio/television,good
+22,female,skilled,rent,< 100 DM,< 0 DM,3632,24,car (used),good
+22,female,skilled,own,< 100 DM,no checking account,1808,18,furniture/equipment,bad
+48,male,highly qualified,own,unknown/ no savings account,0 <= ... < 200 DM,12204,48,business,good
+27,male,highly qualified,free,unknown/ no savings account,0 <= ... < 200 DM,9157,60,radio/television,good
+37,male,skilled,rent,< 100 DM,< 0 DM,3676,6,car (new),good
+21,female,skilled,rent,100 <= ... < 500 DM,0 <= ... < 200 DM,3441,30,furniture/equipment,bad
+49,male,unskilled and resident,own,< 100 DM,no checking account,640,12,car (new),good
+27,male,skilled,own,< 100 DM,0 <= ... < 200 DM,3652,21,business,good
+32,male,skilled,own,< 100 DM,no checking account,1530,18,car (new),bad
+38,male,skilled,own,unknown/ no savings account,no checking account,3914,48,business,bad
+22,female,skilled,rent,< 100 DM,< 0 DM,1858,12,furniture/equipment,good
+65,male,skilled,free,< 100 DM,< 0 DM,2600,18,radio/television,bad
+35,male,skilled,own,unknown/ no savings account,no checking account,1979,15,radio/television,good
+41,male,skilled,own,< 100 DM,>= 200 DM / salary assignments for at least 1 year,2116,6,furniture/equipment,good
+29,male,skilled,own,100 <= ... < 500 DM,0 <= ... < 200 DM,1437,9,car (new),bad
+36,male,skilled,own,500 <= ... < 1000 DM,no checking account,4042,42,furniture/equipment,good
+64,male,unskilled and resident,own,unknown/ no savings account,no checking account,3832,9,education,good
+28,female,skilled,own,< 100 DM,< 0 DM,3660,24,radio/television,good
+44,male,skilled,own,< 100 DM,< 0 DM,1553,18,furniture/equipment,bad
+23,male,skilled,own,unknown/ no savings account,0 <= ... < 200 DM,1444,15,radio/television,good
+19,female,skilled,rent,< 100 DM,no checking account,1980,9,furniture/equipment,bad
+25,female,unskilled and resident,own,< 100 DM,0 <= ... < 200 DM,1355,24,car (new),bad
+47,male,skilled,own,< 100 DM,no checking account,1393,12,education,good
+28,female,skilled,own,500 <= ... < 1000 DM,no checking account,1376,24,radio/television,good
+21,male,skilled,own,< 100 DM,no checking account,15653,60,radio/television,good
+34,female,skilled,own,< 100 DM,no checking account,1493,12,radio/television,good
+26,male,skilled,own,< 100 DM,< 0 DM,4370,42,radio/television,bad
+27,female,unskilled and non-resident,own,< 100 DM,< 0 DM,750,18,education,bad
+38,male,unskilled and resident,own,< 100 DM,0 <= ... < 200 DM,1308,15,repairs,good
+40,male,highly qualified,own,100 <= ... < 500 DM,no checking account,4623,15,education,bad
+33,male,skilled,own,< 100 DM,no checking account,1851,24,radio/television,good
+32,male,highly qualified,own,< 100 DM,< 0 DM,1880,18,radio/television,good
+27,male,skilled,rent,unknown/ no savings account,no checking account,7980,36,business,bad
+32,male,skilled,own,< 100 DM,< 0 DM,4583,30,furniture/equipment,good
+26,female,skilled,own,500 <= ... < 1000 DM,no checking account,1386,12,car (new),bad
+38,male,skilled,free,< 100 DM,>= 200 DM / salary assignments for at least 1 year,947,24,car (new),bad
+40,male,unskilled and resident,rent,< 100 DM,< 0 DM,684,12,education,bad
+50,male,highly qualified,free,< 100 DM,< 0 DM,7476,48,education,good
+37,male,unskilled and resident,own,< 100 DM,0 <= ... < 200 DM,1922,12,furniture/equipment,bad
+45,male,skilled,own,< 100 DM,< 0 DM,2303,24,car (new),bad
+42,male,highly qualified,own,100 <= ... < 500 DM,0 <= ... < 200 DM,8086,36,car (new),bad
+35,male,skilled,own,< 100 DM,no checking account,2346,24,car (used),good
+22,male,skilled,free,< 100 DM,< 0 DM,3973,14,car (new),good
+41,male,unskilled and resident,own,< 100 DM,0 <= ... < 200 DM,888,12,car (new),bad
+37,male,skilled,own,unknown/ no savings account,no checking account,10222,48,radio/television,good
+28,female,skilled,own,< 100 DM,0 <= ... < 200 DM,4221,30,business,good
+41,male,skilled,own,< 100 DM,0 <= ... < 200 DM,6361,18,furniture/equipment,good
+23,male,skilled,rent,< 100 DM,>= 200 DM / salary assignments for at least 1 year,1297,12,radio/television,good
+23,male,skilled,own,unknown/ no savings account,< 0 DM,900,12,car (new),bad
+50,male,skilled,own,< 100 DM,no checking account,2241,21,furniture/equipment,good
+35,male,highly qualified,own,< 100 DM,0 <= ... < 200 DM,1050,6,furniture/equipment,good
+50,female,unskilled and resident,own,< 100 DM,>= 200 DM / salary assignments for at least 1 year,1047,6,education,good
+27,male,highly qualified,own,< 100 DM,no checking account,6314,24,others,good
+34,male,skilled,own,>= 1000 DM,0 <= ... < 200 DM,3496,30,furniture/equipment,good
+27,female,skilled,own,< 100 DM,no checking account,3609,48,business,good
+43,male,skilled,rent,< 100 DM,< 0 DM,4843,12,car (new),bad
+47,male,skilled,own,< 100 DM,>= 200 DM / salary assignments for at least 1 year,3017,30,radio/television,good
+27,male,unskilled and resident,own,100 <= ... < 500 DM,no checking account,4139,24,business,good
+31,male,skilled,own,100 <= ... < 500 DM,no checking account,5742,36,business,good
+42,male,highly qualified,own,< 100 DM,no checking account,10366,60,car (new),good
+24,male,skilled,own,500 <= ... < 1000 DM,no checking account,2080,6,car (new),good
+41,male,unskilled and resident,own,500 <= ... < 1000 DM,no checking account,2580,21,business,bad
+26,female,highly qualified,rent,< 100 DM,no checking account,4530,30,radio/television,good
+33,male,skilled,own,< 100 DM,no checking account,5150,24,furniture/equipment,good
+24,male,skilled,own,100 <= ... < 500 DM,0 <= ... < 200 DM,5595,72,radio/television,bad
+64,male,unskilled and resident,rent,< 100 DM,< 0 DM,2384,24,radio/television,good
+26,female,skilled,own,< 100 DM,no checking account,1453,18,radio/television,good
+56,female,skilled,own,< 100 DM,no checking account,1538,6,education,good
+37,male,skilled,free,unknown/ no savings account,no checking account,2279,12,radio/television,good
+33,male,skilled,own,< 100 DM,no checking account,1478,15,radio/television,good
+47,male,skilled,free,< 100 DM,no checking account,5103,24,radio/television,good
+31,male,unskilled and resident,own,100 <= ... < 500 DM,0 <= ... < 200 DM,9857,36,business,good
+34,male,skilled,free,unknown/ no savings account,no checking account,6527,60,car (new),good
+27,male,skilled,own,unknown/ no savings account,>= 200 DM / salary assignments for at least 1 year,1347,10,radio/television,good
+30,male,skilled,free,100 <= ... < 500 DM,0 <= ... < 200 DM,2862,36,car (new),good
+35,male,skilled,own,100 <= ... < 500 DM,no checking account,2753,9,radio/television,good
+31,male,skilled,own,>= 1000 DM,< 0 DM,3651,12,car (new),good
+25,male,skilled,own,< 100 DM,< 0 DM,975,15,furniture/equipment,good
+25,female,unskilled and resident,own,100 <= ... < 500 DM,0 <= ... < 200 DM,2631,15,repairs,good
+29,male,skilled,own,100 <= ... < 500 DM,0 <= ... < 200 DM,2896,24,radio/television,good
+44,male,unskilled and resident,own,unknown/ no savings account,< 0 DM,4716,6,car (new),good
+28,male,skilled,own,< 100 DM,no checking account,2284,24,radio/television,good
+50,male,skilled,rent,500 <= ... < 1000 DM,no checking account,1236,6,car (used),good
+29,male,skilled,own,< 100 DM,0 <= ... < 200 DM,1103,12,radio/television,good
+38,female,unskilled and non-resident,own,< 100 DM,no checking account,926,12,car (new),good
+24,male,skilled,own,< 100 DM,no checking account,1800,18,radio/television,good
+40,male,highly qualified,rent,< 100 DM,>= 200 DM / salary assignments for at least 1 year,1905,15,education,good
+29,female,unskilled and resident,rent,500 <= ... < 1000 DM,no checking account,1123,12,furniture/equipment,bad
+46,male,skilled,free,< 100 DM,< 0 DM,6331,48,car (used),bad
+47,female,skilled,free,100 <= ... < 500 DM,>= 200 DM / salary assignments for at least 1 year,1377,24,radio/television,good
+41,male,skilled,own,100 <= ... < 500 DM,0 <= ... < 200 DM,2503,30,business,good
+32,female,skilled,own,< 100 DM,0 <= ... < 200 DM,2528,27,business,good
+35,female,skilled,free,500 <= ... < 1000 DM,no checking account,5324,15,car (new),good
+24,male,skilled,own,100 <= ... < 500 DM,0 <= ... < 200 DM,6560,48,car (new),bad
+25,female,skilled,rent,< 100 DM,0 <= ... < 200 DM,2969,12,furniture/equipment,bad
+25,female,skilled,own,< 100 DM,0 <= ... < 200 DM,1206,9,radio/television,good
+37,male,unskilled and resident,own,< 100 DM,0 <= ... < 200 DM,2118,9,radio/television,good
+32,male,highly qualified,own,500 <= ... < 1000 DM,no checking account,629,18,radio/television,good
+35,female,skilled,free,< 100 DM,< 0 DM,1198,6,education,bad
+46,male,highly qualified,own,unknown/ no savings account,no checking account,2476,21,car (used),good
+25,male,unskilled and resident,own,< 100 DM,< 0 DM,1138,9,radio/television,good
+27,male,highly qualified,own,< 100 DM,0 <= ... < 200 DM,14027,60,car (new),bad
+63,male,skilled,own,unknown/ no savings account,no checking account,7596,30,car (used),good
+40,male,skilled,own,unknown/ no savings account,no checking account,3077,30,radio/television,good
+32,male,highly qualified,free,< 100 DM,no checking account,1505,18,radio/television,good
+31,male,skilled,own,unknown/ no savings account,>= 200 DM / salary assignments for at least 1 year,3148,24,radio/television,good
+31,male,skilled,own,100 <= ... < 500 DM,0 <= ... < 200 DM,6148,20,car (used),good
+34,male,highly qualified,own,< 100 DM,>= 200 DM / salary assignments for at least 1 year,1337,9,radio/television,bad
+24,female,skilled,rent,>= 1000 DM,0 <= ... < 200 DM,433,6,education,bad
+24,female,unskilled and resident,own,< 100 DM,< 0 DM,1228,12,car (new),bad
+66,female,unskilled and resident,own,500 <= ... < 1000 DM,0 <= ... < 200 DM,790,9,radio/television,good
+21,female,skilled,rent,< 100 DM,no checking account,2570,27,car (new),bad
+41,female,unskilled and resident,own,>= 1000 DM,no checking account,250,6,car (new),good
+47,male,unskilled and resident,own,500 <= ... < 1000 DM,no checking account,1316,15,radio/television,good
+25,female,skilled,rent,< 100 DM,< 0 DM,1882,18,radio/television,bad
+59,female,skilled,rent,< 100 DM,0 <= ... < 200 DM,6416,48,business,bad
+36,male,skilled,own,>= 1000 DM,>= 200 DM / salary assignments for at least 1 year,1275,24,business,good
+33,male,skilled,own,< 100 DM,0 <= ... < 200 DM,6403,24,radio/television,good
+21,male,unskilled and resident,rent,< 100 DM,< 0 DM,1987,24,radio/television,bad
+44,female,unskilled and resident,own,< 100 DM,0 <= ... < 200 DM,760,8,radio/television,good
+28,female,skilled,rent,>= 1000 DM,no checking account,2603,24,car (used),good
+37,female,skilled,own,< 100 DM,no checking account,3380,4,car (new),good
+29,female,unskilled and non-resident,own,unknown/ no savings account,0 <= ... < 200 DM,3990,36,domestic appliances,good
+23,female,highly qualified,rent,< 100 DM,0 <= ... < 200 DM,11560,24,car (used),bad
+35,male,unskilled and resident,own,100 <= ... < 500 DM,< 0 DM,4380,18,car (new),good
+45,male,highly qualified,own,< 100 DM,no checking account,6761,6,car (new),good
+26,female,unskilled and resident,rent,100 <= ... < 500 DM,0 <= ... < 200 DM,4280,30,business,bad
+32,male,skilled,own,100 <= ... < 500 DM,< 0 DM,2325,24,car (new),good
+23,male,unskilled and resident,own,< 100 DM,0 <= ... < 200 DM,1048,10,radio/television,good
+41,male,skilled,own,unknown/ no savings account,no checking account,3160,21,radio/television,good
+22,male,skilled,own,500 <= ... < 1000 DM,< 0 DM,2483,24,furniture/equipment,good
+30,male,highly qualified,own,unknown/ no savings account,< 0 DM,14179,39,furniture/equipment,good
+28,male,unskilled and resident,own,< 100 DM,< 0 DM,1797,13,business,good
+23,female,skilled,rent,< 100 DM,< 0 DM,2511,15,car (new),good
+37,female,unskilled and resident,own,< 100 DM,< 0 DM,1274,12,car (new),bad
+26,male,skilled,own,unknown/ no savings account,no checking account,5248,21,car (used),good
+33,male,skilled,own,< 100 DM,no checking account,3029,15,car (used),good
+49,female,skilled,own,< 100 DM,< 0 DM,428,6,furniture/equipment,good
+23,female,unskilled and resident,own,< 100 DM,< 0 DM,976,18,car (new),bad
+23,female,unskilled and resident,rent,100 <= ... < 500 DM,0 <= ... < 200 DM,841,12,business,good
+25,female,skilled,own,< 100 DM,no checking account,5771,30,radio/television,good
+55,male,skilled,free,>= 1000 DM,no checking account,1555,12,repairs,bad
+32,female,skilled,rent,unknown/ no savings account,< 0 DM,1285,24,car (new),bad
+74,male,unskilled and non-resident,own,< 100 DM,>= 200 DM / salary assignments for at least 1 year,1299,6,car (new),good
+39,male,skilled,free,unknown/ no savings account,>= 200 DM / salary assignments for at least 1 year,1271,15,radio/television,bad
+31,male,skilled,own,< 100 DM,no checking account,1393,24,car (new),good
+35,male,skilled,own,< 100 DM,< 0 DM,691,12,car (new),bad
+59,female,skilled,own,unknown/ no savings account,no checking account,5045,15,car (new),good
+24,female,skilled,rent,< 100 DM,< 0 DM,2124,18,furniture/equipment,bad
+24,male,unskilled and resident,own,< 100 DM,< 0 DM,2214,12,radio/television,good
+30,male,highly qualified,free,unknown/ no savings account,no checking account,12680,21,car (new),bad
+27,male,skilled,own,100 <= ... < 500 DM,no checking account,2463,24,car (new),good
+40,male,unskilled and resident,own,< 100 DM,0 <= ... < 200 DM,1155,12,radio/television,good
+31,male,unskilled and resident,own,< 100 DM,< 0 DM,3108,30,furniture/equipment,bad
+31,female,skilled,rent,unknown/ no savings account,no checking account,2901,10,car (used),good
+28,male,skilled,rent,< 100 DM,0 <= ... < 200 DM,3617,12,furniture/equipment,good
+63,male,unskilled and resident,own,< 100 DM,no checking account,1655,12,radio/television,good
+26,female,skilled,rent,unknown/ no savings account,< 0 DM,2812,24,car (used),good
+25,female,highly qualified,own,< 100 DM,< 0 DM,8065,36,education,bad
+36,male,highly qualified,own,< 100 DM,no checking account,3275,21,car (used),good
+52,male,skilled,own,100 <= ... < 500 DM,no checking account,2223,24,radio/television,good
+66,male,unskilled and non-resident,free,500 <= ... < 1000 DM,>= 200 DM / salary assignments for at least 1 year,1480,12,car (new),good
+25,female,skilled,rent,unknown/ no savings account,< 0 DM,1371,24,car (new),bad
+37,male,skilled,own,< 100 DM,no checking account,3535,36,car (new),good
+25,female,skilled,own,< 100 DM,< 0 DM,3509,18,radio/television,good
+38,male,highly qualified,own,>= 1000 DM,no checking account,5711,36,car (used),good
+67,female,skilled,own,< 100 DM,0 <= ... < 200 DM,3872,18,repairs,good
+25,male,skilled,own,< 100 DM,0 <= ... < 200 DM,4933,39,radio/television,bad
+60,male,skilled,own,>= 1000 DM,no checking account,1940,24,car (new),good
+31,male,unskilled and resident,own,< 100 DM,0 <= ... < 200 DM,1410,12,retraining,good
+23,female,unskilled and resident,own,100 <= ... < 500 DM,0 <= ... < 200 DM,836,12,car (new),bad
+60,male,highly qualified,own,unknown/ no savings account,0 <= ... < 200 DM,6468,20,car (used),good
+35,male,unskilled and resident,own,>= 1000 DM,0 <= ... < 200 DM,1941,18,business,good
+40,male,skilled,own,500 <= ... < 1000 DM,no checking account,2675,22,radio/television,good
+38,male,skilled,own,unknown/ no savings account,no checking account,2751,48,car (used),good
+50,male,skilled,free,< 100 DM,0 <= ... < 200 DM,6224,48,education,bad
+27,male,skilled,own,< 100 DM,< 0 DM,5998,40,education,bad
+39,female,skilled,own,< 100 DM,0 <= ... < 200 DM,1188,21,business,bad
+41,male,highly qualified,own,unknown/ no savings account,no checking account,6313,24,car (used),good
+27,male,skilled,own,unknown/ no savings account,no checking account,1221,6,furniture/equipment,good
+51,male,skilled,free,< 100 DM,>= 200 DM / salary assignments for at least 1 year,2892,24,furniture/equipment,good
+32,male,skilled,rent,500 <= ... < 1000 DM,no checking account,3062,24,furniture/equipment,good
+22,female,skilled,rent,100 <= ... < 500 DM,no checking account,2301,9,furniture/equipment,good
+51,male,skilled,free,unknown/ no savings account,< 0 DM,7511,18,car (used),bad
+22,female,unskilled and resident,rent,< 100 DM,no checking account,1258,12,furniture/equipment,good
+54,male,skilled,own,unknown/ no savings account,no checking account,717,24,car (new),good
+35,male,unskilled and non-resident,own,unknown/ no savings account,0 <= ... < 200 DM,1549,9,car (new),good
+54,male,skilled,free,< 100 DM,no checking account,1597,24,education,good
+48,female,unskilled and resident,rent,< 100 DM,0 <= ... < 200 DM,1795,18,radio/television,good
+24,female,skilled,own,< 100 DM,< 0 DM,4272,20,furniture/equipment,good
+35,male,skilled,own,unknown/ no savings account,no checking account,976,12,radio/television,good
+24,female,unskilled and non-resident,rent,unknown/ no savings account,0 <= ... < 200 DM,7472,12,car (new),good
+24,male,skilled,own,< 100 DM,< 0 DM,9271,36,car (new),bad
+26,male,unskilled and resident,own,< 100 DM,0 <= ... < 200 DM,590,6,radio/television,good
+65,male,skilled,own,unknown/ no savings account,no checking account,930,12,radio/television,good
+55,male,highly qualified,free,< 100 DM,0 <= ... < 200 DM,9283,42,car (used),good
+26,female,unskilled and non-resident,rent,< 100 DM,0 <= ... < 200 DM,1778,15,car (new),bad
+26,male,skilled,own,< 100 DM,0 <= ... < 200 DM,907,8,business,good
+28,male,unskilled and resident,own,< 100 DM,0 <= ... < 200 DM,484,6,radio/television,good
+24,male,skilled,own,< 100 DM,< 0 DM,9629,36,car (used),bad
+54,male,skilled,own,< 100 DM,< 0 DM,3051,48,domestic appliances,bad
+46,male,skilled,free,< 100 DM,< 0 DM,3931,48,car (new),bad
+54,female,skilled,rent,< 100 DM,0 <= ... < 200 DM,7432,36,car (new),good
+62,male,skilled,own,500 <= ... < 1000 DM,no checking account,1338,6,domestic appliances,good
+24,female,skilled,rent,< 100 DM,no checking account,1554,6,radio/television,good
+43,male,highly qualified,own,< 100 DM,< 0 DM,15857,36,others,good
+26,male,skilled,own,< 100 DM,< 0 DM,1345,18,radio/television,bad
+27,male,skilled,own,< 100 DM,no checking account,1101,12,car (new),good
+24,male,skilled,own,< 100 DM,>= 200 DM / salary assignments for at least 1 year,3016,12,radio/television,good
+41,male,skilled,own,< 100 DM,< 0 DM,2712,36,furniture/equipment,bad
+47,male,unskilled and resident,own,< 100 DM,< 0 DM,731,8,car (new),good
+35,male,highly qualified,own,< 100 DM,no checking account,3780,18,furniture/equipment,good
+30,male,skilled,own,< 100 DM,< 0 DM,1602,21,car (new),good
+33,female,skilled,rent,< 100 DM,< 0 DM,3966,18,car (new),bad
+36,male,skilled,own,< 100 DM,no checking account,4165,18,business,bad
+47,male,skilled,free,unknown/ no savings account,< 0 DM,8335,36,car (used),bad
+38,male,skilled,free,unknown/ no savings account,0 <= ... < 200 DM,6681,48,business,good
+44,male,skilled,own,500 <= ... < 1000 DM,no checking account,2375,24,business,good
+23,female,skilled,rent,< 100 DM,< 0 DM,1216,18,car (new),bad
+29,male,skilled,rent,< 100 DM,< 0 DM,11816,45,business,bad
+42,female,skilled,own,unknown/ no savings account,0 <= ... < 200 DM,5084,24,radio/television,good
+25,female,unskilled and resident,own,< 100 DM,>= 200 DM / salary assignments for at least 1 year,2327,15,radio/television,bad
+48,male,skilled,own,< 100 DM,< 0 DM,1082,12,car (new),bad
+21,female,skilled,own,unknown/ no savings account,no checking account,886,12,radio/television,good
+23,female,unskilled and resident,rent,< 100 DM,no checking account,601,4,furniture/equipment,good
+63,male,skilled,own,< 100 DM,< 0 DM,2957,24,car (used),good
+46,male,skilled,own,< 100 DM,no checking account,2611,24,radio/television,good
+29,male,skilled,own,< 100 DM,< 0 DM,5179,36,furniture/equipment,bad
+28,male,unskilled and resident,own,< 100 DM,no checking account,2993,21,car (used),good
+23,female,skilled,own,< 100 DM,no checking account,1943,18,repairs,bad
+50,male,skilled,own,< 100 DM,no checking account,1559,24,business,good
+47,male,skilled,own,< 100 DM,no checking account,3422,18,furniture/equipment,good
+35,male,skilled,own,unknown/ no savings account,0 <= ... < 200 DM,3976,21,furniture/equipment,good
+68,male,skilled,rent,unknown/ no savings account,no checking account,6761,18,car (new),bad
+28,male,skilled,own,< 100 DM,no checking account,1249,24,car (new),good
+59,male,skilled,own,< 100 DM,< 0 DM,1364,9,radio/television,good
+57,male,unskilled and resident,own,< 100 DM,< 0 DM,709,12,radio/television,bad
+33,male,skilled,rent,< 100 DM,< 0 DM,2235,20,car (new),bad
+43,male,skilled,own,unknown/ no savings account,no checking account,4042,24,car (used),good
+35,male,skilled,free,< 100 DM,no checking account,1471,15,radio/television,good
+32,male,unskilled and resident,free,< 100 DM,< 0 DM,1442,18,car (new),bad
+45,male,skilled,own,< 100 DM,no checking account,10875,36,car (new),good
+33,male,skilled,own,100 <= ... < 500 DM,no checking account,1474,24,car (new),good
+40,female,skilled,own,unknown/ no savings account,no checking account,894,10,retraining,good
+28,male,skilled,free,< 100 DM,no checking account,3343,15,furniture/equipment,good
+29,female,skilled,own,< 100 DM,< 0 DM,3959,15,car (new),bad
+26,male,skilled,rent,100 <= ... < 500 DM,no checking account,3577,9,car (new),good
+27,male,skilled,own,>= 1000 DM,no checking account,5804,24,car (used),good
+28,male,skilled,own,< 100 DM,no checking account,2169,18,business,bad
+35,female,skilled,own,< 100 DM,< 0 DM,2439,24,radio/television,bad
+32,male,unskilled and resident,own,>= 1000 DM,no checking account,4526,27,furniture/equipment,good
+25,male,unskilled and resident,rent,< 100 DM,no checking account,2210,10,furniture/equipment,bad
+20,female,skilled,rent,500 <= ... < 1000 DM,no checking account,2221,15,furniture/equipment,good
+27,female,skilled,own,< 100 DM,< 0 DM,2389,18,radio/television,good
+42,male,skilled,own,< 100 DM,no checking account,3331,12,furniture/equipment,good
+37,male,skilled,own,unknown/ no savings account,no checking account,7409,36,business,good
+24,female,skilled,rent,< 100 DM,< 0 DM,652,12,furniture/equipment,good
+40,female,skilled,own,500 <= ... < 1000 DM,no checking account,7678,36,furniture/equipment,good
+46,male,skilled,own,< 100 DM,>= 200 DM / salary assignments for at least 1 year,1343,6,car (new),good
+26,male,skilled,own,100 <= ... < 500 DM,< 0 DM,1382,24,business,good
+24,female,skilled,own,unknown/ no savings account,no checking account,874,15,domestic appliances,good
+29,male,unskilled and resident,own,< 100 DM,< 0 DM,3590,12,furniture/equipment,good
+40,female,skilled,own,>= 1000 DM,0 <= ... < 200 DM,1322,11,car (new),good
+36,male,highly qualified,free,< 100 DM,< 0 DM,1940,18,radio/television,good
+28,male,skilled,own,< 100 DM,no checking account,3595,36,radio/television,good
+27,male,highly qualified,free,< 100 DM,< 0 DM,1422,9,car (new),bad
+36,male,skilled,own,unknown/ no savings account,no checking account,6742,30,radio/television,good
+38,male,highly qualified,own,< 100 DM,no checking account,7814,24,car (used),good
+48,male,skilled,free,unknown/ no savings account,no checking account,9277,24,car (used),good
+36,male,skilled,own,unknown/ no savings account,0 <= ... < 200 DM,2181,30,car (new),good
+65,female,unskilled and non-resident,own,< 100 DM,no checking account,1098,18,radio/television,good
+43,male,skilled,own,< 100 DM,0 <= ... < 200 DM,4057,24,furniture/equipment,bad
+53,female,skilled,own,< 100 DM,< 0 DM,795,12,education,bad
+34,male,skilled,own,unknown/ no savings account,0 <= ... < 200 DM,2825,24,business,good
+23,male,skilled,own,< 100 DM,0 <= ... < 200 DM,15672,48,business,bad
+34,male,highly qualified,own,< 100 DM,no checking account,6614,36,car (new),good
+40,male,skilled,rent,unknown/ no savings account,no checking account,7824,28,car (used),good
+43,male,highly qualified,own,< 100 DM,< 0 DM,2442,27,business,good
+46,male,skilled,own,< 100 DM,no checking account,1829,15,radio/television,good
+38,male,unskilled and resident,own,< 100 DM,< 0 DM,2171,12,car (new),good
+34,male,skilled,own,< 100 DM,0 <= ... < 200 DM,5800,36,car (used),good
+29,male,skilled,own,unknown/ no savings account,no checking account,1169,18,radio/television,good
+31,male,highly qualified,own,unknown/ no savings account,no checking account,8947,36,car (used),good
+28,female,highly qualified,rent,< 100 DM,< 0 DM,2606,21,radio/television,good
+35,female,skilled,own,>= 1000 DM,no checking account,1592,12,furniture/equipment,good
+33,female,unskilled and resident,rent,unknown/ no savings account,no checking account,2186,15,furniture/equipment,good
+42,male,skilled,own,< 100 DM,< 0 DM,4153,18,furniture/equipment,bad
+43,male,skilled,rent,< 100 DM,< 0 DM,2625,16,car (new),bad
+44,male,skilled,own,unknown/ no savings account,no checking account,3485,20,car (new),good
+42,male,skilled,free,unknown/ no savings account,no checking account,10477,36,car (used),good
+40,male,skilled,rent,unknown/ no savings account,no checking account,1386,15,radio/television,good
+36,male,highly qualified,own,< 100 DM,no checking account,1278,24,radio/television,good
+20,male,highly qualified,rent,< 100 DM,< 0 DM,1107,12,radio/television,good
+24,male,unskilled and resident,own,unknown/ no savings account,< 0 DM,3763,21,car (new),good
+27,male,skilled,own,unknown/ no savings account,0 <= ... < 200 DM,3711,36,education,good
+46,female,unskilled and resident,own,< 100 DM,no checking account,3594,15,car (used),good
+33,female,unskilled and resident,own,unknown/ no savings account,0 <= ... < 200 DM,3195,9,car (new),good
+34,female,skilled,own,< 100 DM,no checking account,4454,36,radio/television,good
+25,female,unskilled and resident,own,< 100 DM,0 <= ... < 200 DM,4736,24,furniture/equipment,bad
+25,female,skilled,own,unknown/ no savings account,0 <= ... < 200 DM,2991,30,radio/television,good
+28,male,skilled,own,>= 1000 DM,no checking account,2142,11,business,good
+31,male,skilled,rent,< 100 DM,< 0 DM,3161,24,business,bad
+32,female,highly qualified,own,< 100 DM,0 <= ... < 200 DM,18424,48,others,bad
+32,male,skilled,own,100 <= ... < 500 DM,no checking account,2848,10,car (used),good
+68,male,highly qualified,own,< 100 DM,< 0 DM,14896,6,car (new),bad
+33,male,skilled,own,100 <= ... < 500 DM,< 0 DM,2359,24,furniture/equipment,bad
+39,male,highly qualified,rent,< 100 DM,< 0 DM,3345,24,furniture/equipment,bad
+28,female,skilled,own,< 100 DM,no checking account,1817,18,furniture/equipment,good
+37,male,highly qualified,own,500 <= ... < 1000 DM,no checking account,12749,48,radio/television,good
+22,female,skilled,rent,< 100 DM,< 0 DM,1366,9,radio/television,bad
+30,male,skilled,rent,< 100 DM,0 <= ... < 200 DM,2002,12,car (new),good
+55,male,skilled,own,< 100 DM,< 0 DM,6872,24,furniture/equipment,bad
+46,male,skilled,own,< 100 DM,< 0 DM,697,12,car (new),bad
+21,female,skilled,rent,< 100 DM,< 0 DM,1049,18,furniture/equipment,good
+39,male,skilled,free,< 100 DM,< 0 DM,10297,48,car (used),bad
+58,male,skilled,own,unknown/ no savings account,no checking account,1867,30,radio/television,good
+43,male,unskilled and resident,own,< 100 DM,< 0 DM,1344,12,car (new),good
+24,male,unskilled and resident,own,< 100 DM,< 0 DM,1747,24,furniture/equipment,good
+22,female,skilled,own,< 100 DM,0 <= ... < 200 DM,1670,9,radio/television,bad
+30,male,skilled,own,< 100 DM,no checking account,1224,9,car (new),good
+42,male,skilled,own,500 <= ... < 1000 DM,no checking account,522,12,radio/television,good
+23,female,skilled,own,< 100 DM,< 0 DM,1498,12,radio/television,good
+30,male,highly qualified,own,100 <= ... < 500 DM,0 <= ... < 200 DM,1919,30,radio/television,bad
+28,female,unskilled and resident,own,< 100 DM,>= 200 DM / salary assignments for at least 1 year,745,9,radio/television,bad
+30,male,highly qualified,rent,< 100 DM,0 <= ... < 200 DM,2063,6,radio/television,good
+42,male,skilled,free,< 100 DM,0 <= ... < 200 DM,6288,60,education,bad
+46,male,highly qualified,own,unknown/ no savings account,no checking account,6842,24,car (used),good
+45,male,highly qualified,own,unknown/ no savings account,no checking account,3527,12,car (new),good
+31,male,unskilled and resident,own,< 100 DM,no checking account,1546,10,car (new),good
+31,male,skilled,own,unknown/ no savings account,no checking account,929,24,furniture/equipment,good
+42,male,unskilled and resident,own,< 100 DM,no checking account,1455,4,car (new),good
+46,female,skilled,rent,< 100 DM,< 0 DM,1845,15,furniture/equipment,good
+30,female,skilled,own,500 <= ... < 1000 DM,0 <= ... < 200 DM,8358,48,car (new),good
+30,male,skilled,free,500 <= ... < 1000 DM,< 0 DM,3349,24,furniture/equipment,bad
+38,male,highly qualified,own,unknown/ no savings account,no checking account,2859,12,car (new),good
+43,male,unskilled and resident,own,< 100 DM,no checking account,1533,18,furniture/equipment,bad
+31,male,skilled,own,100 <= ... < 500 DM,no checking account,3621,24,radio/television,bad
+40,male,unskilled and non-resident,own,< 100 DM,0 <= ... < 200 DM,3590,18,business,good
+24,male,skilled,own,< 100 DM,< 0 DM,2145,36,business,bad
+28,female,skilled,rent,500 <= ... < 1000 DM,0 <= ... < 200 DM,4113,24,car (used),bad
+26,female,highly qualified,own,< 100 DM,no checking account,10974,36,furniture/equipment,bad
+29,female,skilled,own,< 100 DM,< 0 DM,1893,12,car (new),good
+57,female,highly qualified,rent,>= 1000 DM,< 0 DM,1231,24,radio/television,good
+49,male,unskilled and resident,own,unknown/ no savings account,>= 200 DM / salary assignments for at least 1 year,3656,30,radio/television,good
+37,male,unskilled and resident,own,< 100 DM,0 <= ... < 200 DM,1154,9,radio/television,good
+45,male,unskilled and resident,own,< 100 DM,< 0 DM,4006,28,car (new),bad
+30,male,skilled,free,100 <= ... < 500 DM,0 <= ... < 200 DM,3069,24,furniture/equipment,good
+30,male,skilled,rent,< 100 DM,no checking account,1740,6,radio/television,good
+47,male,skilled,own,< 100 DM,0 <= ... < 200 DM,2353,21,car (new),good
+29,male,skilled,own,unknown/ no savings account,no checking account,3556,15,car (new),good
+35,male,skilled,own,500 <= ... < 1000 DM,no checking account,2397,24,radio/television,bad
+22,male,unskilled and resident,own,< 100 DM,0 <= ... < 200 DM,454,6,repairs,good
+26,female,skilled,own,unknown/ no savings account,0 <= ... < 200 DM,1715,30,radio/television,good
+23,male,unskilled and resident,own,500 <= ... < 1000 DM,0 <= ... < 200 DM,2520,27,radio/television,bad
+54,female,highly qualified,rent,< 100 DM,no checking account,3568,15,radio/television,good
+29,male,skilled,rent,unknown/ no savings account,no checking account,7166,42,radio/television,good
+40,male,unskilled and resident,own,< 100 DM,< 0 DM,3939,11,car (new),good
+22,male,skilled,own,100 <= ... < 500 DM,0 <= ... < 200 DM,1514,15,repairs,good
+43,male,unskilled and resident,own,< 100 DM,no checking account,7393,24,car (new),good
+29,female,unskilled and non-resident,rent,< 100 DM,< 0 DM,1193,24,car (new),bad
+36,male,skilled,rent,< 100 DM,< 0 DM,7297,60,business,bad
+33,female,skilled,own,< 100 DM,no checking account,2831,30,radio/television,good
+57,female,unskilled and resident,own,500 <= ... < 1000 DM,>= 200 DM / salary assignments for at least 1 year,1258,24,radio/television,good
+64,female,skilled,own,< 100 DM,0 <= ... < 200 DM,753,6,radio/television,good
+42,male,skilled,own,unknown/ no savings account,0 <= ... < 200 DM,2427,18,business,good
+47,male,unskilled and resident,own,< 100 DM,no checking account,2538,24,car (new),bad
+25,male,skilled,rent,100 <= ... < 500 DM,0 <= ... < 200 DM,1264,15,car (new),bad
+49,male,skilled,own,< 100 DM,0 <= ... < 200 DM,8386,30,furniture/equipment,bad
+33,male,highly qualified,rent,< 100 DM,no checking account,4844,48,business,bad
+28,female,highly qualified,own,100 <= ... < 500 DM,>= 200 DM / salary assignments for at least 1 year,2923,21,car (new),good
+26,male,skilled,own,< 100 DM,< 0 DM,8229,36,car (used),bad
+30,male,unskilled and resident,own,< 100 DM,no checking account,2028,24,furniture/equipment,good
+25,female,skilled,rent,< 100 DM,< 0 DM,1433,15,furniture/equipment,good
+33,male,skilled,own,< 100 DM,>= 200 DM / salary assignments for at least 1 year,6289,42,business,good
+64,female,skilled,own,100 <= ... < 500 DM,no checking account,1409,13,radio/television,good
+29,male,highly qualified,free,< 100 DM,< 0 DM,6579,24,car (used),good
+48,male,unskilled and resident,own,< 100 DM,0 <= ... < 200 DM,1743,24,radio/television,good
+37,male,unskilled and resident,own,unknown/ no savings account,no checking account,3565,12,education,good
+34,male,unskilled and resident,own,100 <= ... < 500 DM,no checking account,1569,15,radio/television,good
+23,male,unskilled and resident,rent,unknown/ no savings account,< 0 DM,1936,18,radio/television,good
+30,male,highly qualified,own,< 100 DM,< 0 DM,3959,36,furniture/equipment,good
+50,male,skilled,own,unknown/ no savings account,no checking account,2390,12,car (new),good
+31,female,unskilled and resident,own,< 100 DM,no checking account,1736,12,furniture/equipment,good
+40,male,highly qualified,own,< 100 DM,< 0 DM,3857,30,car (used),good
+38,male,skilled,own,< 100 DM,no checking account,804,12,radio/television,good
+23,male,skilled,free,< 100 DM,< 0 DM,1845,45,radio/television,bad
+27,male,skilled,own,100 <= ... < 500 DM,0 <= ... < 200 DM,4576,45,car (used),good
